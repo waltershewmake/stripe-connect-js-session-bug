@@ -3,7 +3,7 @@ import styles from "./index.module.css";
 import internalStripe from "stripe";
 import { env } from "~/env";
 import React from "react";
-import ConnectAccountOnboardingComponent from "~/styles/connect-account-onboarding-component";
+import ConnectAccountOnboardingComponent from "~/components/connect-account-onboarding-component";
 
 const stripe = new internalStripe(env.STRIPE_API_KEY);
 
