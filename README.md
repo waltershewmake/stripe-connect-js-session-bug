@@ -10,3 +10,5 @@ This repository represents a minimal reproduction of a bug I've encountered with
     }
 }
 ```
+
+[![Screenshot](/screenshot.png)](/screenshot.png)
